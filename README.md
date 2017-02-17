@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+這是照著教學所做的rails backend auth
 
-Things you may want to cover:
+https://medium.com/@avatsaev/angular-2-and-ruby-on-rails-user-authentication-fde230ddaed8#.y2sdj33xz
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
